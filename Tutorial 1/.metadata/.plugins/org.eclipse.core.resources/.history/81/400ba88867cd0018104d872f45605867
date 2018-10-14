@@ -1,0 +1,9 @@
+<html>
+	<body>
+		<%! String lowerCaseMethod(String s) {
+			return s;
+		}%>
+		
+		Here is a LowerCase Method <%= lowerCaseMethod("Hello World") %>
+	</body>
+</html>

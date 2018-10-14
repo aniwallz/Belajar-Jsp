@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+D:\Latihan\Java Servlet\Tutorial 1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3406804311.index
+2987483161.index
+1268247648.index
+1006478835.index
+2884291122.index
+2884291122.index
+813034218.index
+2357656187.index

@@ -1,0 +1,15 @@
+<html>
+
+	<body>
+		Full Name : ${param.firstName } ${param.lastName }
+		<br>
+		<ul>
+		<% 
+			String[] langs = request.getParameterValues("favoriteLanguage"); 
+			for(String temp : langs) {
+				out.print("<li>"+temp+"</li>");
+			}
+		%>
+		</ul>
+	</body>
+</html>
